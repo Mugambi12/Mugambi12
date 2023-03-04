@@ -1,4 +1,4 @@
-name: Latest blog post workflow for SilasMMugambi
+name: Latest blog post workflow for Silas Mugambi
 on:
   schedule: # Run workflow automatically
     - cron: '0 * * * *' # Runs every hour, on the hour
@@ -16,4 +16,4 @@ jobs:
       - name: Pull in Medium posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://medium.com/feed/@SilasMMugambi"
+          feed_list: "https://silasmugambi.medium.com/feed/"
