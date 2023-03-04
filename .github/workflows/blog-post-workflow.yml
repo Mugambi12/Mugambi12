@@ -11,7 +11,9 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-        uses: actions/checkout@v1
-        uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Pull in dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://Silas.Mugambi.medium.com/feed"
+          feed_list: "https://silasmmugambi.medium.com/feed"
