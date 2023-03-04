@@ -1,4 +1,4 @@
-![logo](https://github.com/Mugambi12/Mugambi12/blob/main/Simple%20Professional.gif)
+![logo](https://github.com/Mugambi12/Mugambi12/blob/master/images/Simple%20Professional.gif)
 <br/>
 <h1 align="center">Hi 👋, I'm Silas Mugambi</h1>
 <h4 align="center">A passionate Data Scientist and Frontend Developer from Kenya</h4>
