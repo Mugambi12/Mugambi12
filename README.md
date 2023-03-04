@@ -124,11 +124,11 @@
 <h4>💡 Twitter Latest Tweets</h4>
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mugambi12&" alt="mugambi12" /></p>
-
-<h2 align="center">💻 Check Out My Repos ⬇️</h2>
-
-
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mugambi12&" alt="mugambi12" /></p>
+
+<h2 align="center">💻 Check Out My Repos ⬇️</h2>
