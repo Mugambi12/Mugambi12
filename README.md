@@ -34,7 +34,7 @@
 </div>
 
 
-<img align="right" width="400" alt="coding gif" src="./programmer.gif">
+<img align="right" width="400" alt="coding gif" src="./images/programmer.gif">
 
 - 🌱 I’m currently learning **Software Engineering**
 
