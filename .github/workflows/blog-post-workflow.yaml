@@ -1,20 +1,19 @@
-name: Latest blog post workflow
+name: Latest blog post workflow for SilasMMugambi
 on:
-  schedule:
+  schedule: # Run workflow automatically
     - cron: '0 * * * *' # Runs every hour, on the hour
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+permissions:
+  contents: write # To write the generated contents to the readme
+
 jobs:
   update-readme-with-blog:
-    name: Update publication with latest blog posts
+    name: Update this repo's README with latest blog posts from SilasMMugambi
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
-      - name: Pull in blog posts
-        uses: adriangonz/blog-post-workflow@master
+        uses: actions/checkout@v3
+      - name: Pull in Medium posts
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          publications: "your-publication-name"
-          file: "blog-posts.md"
-          medium-token: "${{ secrets.MEDIUM_TOKEN }}"
-          medium-tags: "tag1, tag2, tag3"
-          medium-status: "draft"
-          feed_urls: "https://medium.com/feed/@silasmmugambi"
+          feed_list: "https://medium.com/feed/@SilasMMugambi"
