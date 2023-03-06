@@ -128,9 +128,9 @@
 - [Lessons from an attack](https://www.gautamkrishnar.com/lessons-from-an-attack/)
 <!-- BLOG-POST-LIST:END -->
 
-<h4>🎯 LinkedIn Latest Feeds</h4>
+#### 🎯 LinkedIn Latest Feeds
 
-<h4>💡 Twitter Latest Tweets</h4>
+#### 💡 Twitter Latest Tweets
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mugambi12&" alt="mugambi12" /></p>
 
