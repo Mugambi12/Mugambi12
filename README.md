@@ -119,10 +119,6 @@
 
 <h4 align="center">📚 My Blog Feeds</h4>
 
-<h4>🎯 LinkedIn Latest Feeds</h4>
-
-<h4>💡 Twitter Latest Tweets</h4>
-
 #### 📑 Latest 5 Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Machine learning](https://dev.to/silasmugambi/machine-learning-4ii8)
@@ -131,6 +127,10 @@
 - [An Intro to NumPy](https://www.gautamkrishnar.com/an-intro-to-numpy/)
 - [Lessons from an attack](https://www.gautamkrishnar.com/lessons-from-an-attack/)
 <!-- BLOG-POST-LIST:END -->
+
+<h4>🎯 LinkedIn Latest Feeds</h4>
+
+<h4>💡 Twitter Latest Tweets</h4>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mugambi12&" alt="mugambi12" /></p>
 
