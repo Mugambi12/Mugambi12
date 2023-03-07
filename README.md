@@ -127,8 +127,6 @@
 <!-- TWITTER_FEED_LIST:START -->
 <!-- TWITTER_FEED_LIST:END -->
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mugambi12&" alt="mugambi12" /></p>
-
 <h2 align="center">📱 Connect with me:</h2>
 <p align="center">
 <a href="https://linkedin.com/in/silasmugambi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="silasmugambi" height="30" width="40"></a>
@@ -136,5 +134,7 @@
 <a href="https://fb.com/mugash.silas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mugash.silas" height="30" width="40"></a>
 <a href="https://instagram.com/mugambi_mungiria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mugambi_mungiria" height="30" width="40"></a>
 </p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mugambi12&" alt="mugambi12" /></p>
 
 <h2 align="center">💻 Check Out My Repos ⬇️</h2>
