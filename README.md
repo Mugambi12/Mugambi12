@@ -124,11 +124,11 @@
 
 #### 📑 Latest 5 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Data Preprocessing Using Python](https://dev.to/silasmugambi/data-preprocessing-using-python-13c6)
 - [Machine learning](https://dev.to/silasmugambi/machine-learning-4ii8)
 - [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
 - [Microsoft Student Partners &lpar;Ambassadors&rpar; – Geek is the new rockstar](https://www.gautamkrishnar.com/microsoft-student-partners/)
 - [An Intro to NumPy](https://www.gautamkrishnar.com/an-intro-to-numpy/)
-- [Lessons from an attack](https://www.gautamkrishnar.com/lessons-from-an-attack/)
 <!-- BLOG-POST-LIST:END -->
 
 #### 🎯 LinkedIn Latest Feeds
