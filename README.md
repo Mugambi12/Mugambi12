@@ -129,8 +129,12 @@
 <!-- BLOG-POST-LIST:END -->
 
 #### 🎯 LinkedIn Latest Feeds
+<!-- LINKEDIN_FEED_LIST:START -->
+<!-- LINKEDIN_FEED_LIST:END -->
 
 #### 💡 Twitter Latest Tweets
+<!-- TWITTER_FEED_LIST:START -->
+<!-- TWITTER_FEED_LIST:END -->
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mugambi12&" alt="mugambi12" /></p>
 
