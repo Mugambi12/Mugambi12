@@ -3,16 +3,6 @@
 <h1 align="center">Hi 👋, I'm Silas Mugambi</h1>
 <h4 align="center">A passionate Data Scientist and Frontend Developer from Kenya</h4>
 
-
-
-<h2 align="center">📱 Connect with me:</h2>
-<p align="center">
-<a href="https://linkedin.com/in/silasmugambi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="silasmugambi" height="30" width="40"></a>
-<a href="https://twitter.com/mugambimungiria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mugambimungiria" height="30" width="40"></a>
-<a href="https://fb.com/mugash.silas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mugash.silas" height="30" width="40"></a>
-<a href="https://instagram.com/mugambi_mungiria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mugambi_mungiria" height="30" width="40"></a>
-</p>
-
 <h2 align="center">💼 Key Info and Links</h2>
 
 <div style="display: flex; flex-wrap: wrap; text-align: center;">
@@ -138,5 +128,13 @@
 <!-- TWITTER_FEED_LIST:END -->
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mugambi12&" alt="mugambi12" /></p>
+
+<h2 align="center">📱 Connect with me:</h2>
+<p align="center">
+<a href="https://linkedin.com/in/silasmugambi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="silasmugambi" height="30" width="40"></a>
+<a href="https://twitter.com/mugambimungiria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mugambimungiria" height="30" width="40"></a>
+<a href="https://fb.com/mugash.silas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mugash.silas" height="30" width="40"></a>
+<a href="https://instagram.com/mugambi_mungiria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mugambi_mungiria" height="30" width="40"></a>
+</p>
 
 <h2 align="center">💻 Check Out My Repos ⬇️</h2>
