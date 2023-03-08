@@ -93,13 +93,14 @@
 <br />
 
 <div style="display: flex; flex-wrap: wrap; text-align: center; justify-content: space-around;">
-
-   <a href="https://github.com/anuraghazra/convoychat">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugambi12&langs_count=8&theme=jolly&layout=compact"  alt="mugambi12's GitHub stats">
+  
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugambi12&langs_count=8&theme=jolly&layout=compact" />
   </a>
-
-   <img src="https://github-readme-stats.vercel.app/api?username=mugambi12&show_icons=true&theme=radical" alt="mugambi12's GitHub stats">
-
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=mugambi12&show_icons=true&theme=jolly&layout=compact" />
+  </a>
+  
 </div>
 
 <h2 align="center">📝 My Latest Blogs Section:</h2>
